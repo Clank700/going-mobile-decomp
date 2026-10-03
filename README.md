@@ -14,6 +14,8 @@ Reconstructed Java source is compiled with the pinned Sun javac 1.4.1 toolchain,
 
 ## Scope and limits
 
-This repository is an unofficial private preservation/development record. It contains reconstructed Java source, mapping/build configuration, and documentation. It does not include the original retail JAR, retail compiled classes, graphics, audio, levels, decoded localization text, or proprietary compiler/optimizer/preverification binaries. The reconstructed source itself may contain third-party-derived expression; this repository makes no contrary claim.
+This repository is an unofficial preservation and reverse-engineering project. It contains reconstructed Java source, mapping/build configuration, tooling, and documentation. It does not include the original retail JAR, retail compiled classes, standalone graphics or audio assets, level data, decoded localization resources, or proprietary compiler, optimizer, or preverification binaries.
 
-No broad software license is granted here, and no rights to third-party or reconstructed game material are asserted. See [LEGAL.md](LEGAL.md) for the limited factual attribution notice and [docs/BUILD.md](docs/BUILD.md) for build-input constraints.
+The reconstructed source may reproduce or closely reconstruct expression originating from the original game software. No claim is made that such material is independently owned by this project.
+
+Except where expressly stated for particular files or original project material, no software license is granted by this repository. See [LEGAL.md](https://github.com/Clank700/going-mobile-decomp/blob/main/LEGAL.md) for attribution and rights information and [docs/BUILD.md](https://github.com/Clank700/going-mobile-decomp/blob/main/docs/BUILD.md) for build-input constraints.
