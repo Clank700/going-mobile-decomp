@@ -1,0 +1,11 @@
+*.class
+*.jar
+*.jad
+*.log
+*.tmp
+*.zip
+/build/
+/target/
+/.cache/
+__pycache__/
+*.py[cod]
