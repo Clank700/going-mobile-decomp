@@ -11,7 +11,7 @@ import javax.microedition.lcdui.Graphics;
  * Member names are descriptive source names; config/d-preobf.map maps every one of them
  * back to its retail (obfuscated) runtime name. Renames are always group-complete (all
  * members sharing a retail name), which reproduces ProGuard's retail constant-pool
- * ordering; see cleanup/docs/NAMING_SCHEME.md. Library overrides keep their API names,
+ * ordering; see docs/NAMING_SCHEME.md. Library overrides keep their API names,
  * classes keep their retail names, and reconstruction devices keep their opus* names.
  */
 public final class d extends i {
