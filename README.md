@@ -1,6 +1,6 @@
 # Ratchet & Clank: Going Mobile v1.1.0 — reconstructed Java source
 
-This private preservation/development repository contains a readable Java reconstruction and the mapping/configuration used to reproduce the target class-file output. It is not a claim that the historical developer source has been recovered.
+This repository contains a readable Java reconstruction and the mapping/configuration used to reproduce the target class-file output. It is not a claim that the historical developer source has been recovered.
 
 ## Verified output
 
