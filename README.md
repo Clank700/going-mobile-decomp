@@ -20,4 +20,4 @@ It does not include the original retail JAR, retail compiled classes, graphics, 
 
 The reconstructed source was produced through reverse engineering and may reproduce or closely reconstruct expression originating from the original game software. No claim is made that it is the literal historical developer source or that third-party game material is independently owned by this project.
 
-No broad copyright or software license is granted for reconstructed game material or other third-party material. See LEGAL.md for attribution and rights information and docs/BUILD.md for build-input constraints.
+No broad copyright or software license is granted for reconstructed game material or other third-party material. See [LEGAL.md](https://github.com/Clank700/going-mobile-decomp/blob/main/LEGAL.md) for attribution and rights information and [docs/BUILD.md](https://github.com/Clank700/going-mobile-decomp/blob/main/docs/BUILD.md) for build-input constraints.
