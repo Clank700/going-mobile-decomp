@@ -14,8 +14,10 @@ Reconstructed Java source is compiled with the pinned Sun javac 1.4.1 toolchain,
 
 ## Scope and limits
 
-This repository is an unofficial preservation and reverse-engineering project. It contains reconstructed Java source, mapping/build configuration, tooling, and documentation. It does not include the original retail JAR, retail compiled classes, standalone graphics or audio assets, level data, decoded localization resources, or proprietary compiler, optimizer, or preverification binaries.
+This repository is an unofficial preservation and reverse-engineering project. It contains reconstructed Java source, mapping and build configuration, tooling, and documentation.
 
-The reconstructed source may reproduce or closely reconstruct expression originating from the original game software. No claim is made that such material is independently owned by this project.
+It does not include the original retail JAR, retail compiled classes, graphics, audio, levels, decoded localization resources, or proprietary compiler, optimizer, or preverification binaries. A legitimate copy of the original game is required for any build process that depends on retail input.
 
-Except where expressly stated for particular files or original project material, no software license is granted by this repository. See [LEGAL.md](https://github.com/Clank700/going-mobile-decomp/blob/main/LEGAL.md) for attribution and rights information and [docs/BUILD.md](https://github.com/Clank700/going-mobile-decomp/blob/main/docs/BUILD.md) for build-input constraints.
+The reconstructed source was produced through reverse engineering and may reproduce or closely reconstruct expression originating from the original game software. No claim is made that it is the literal historical developer source or that third-party game material is independently owned by this project.
+
+No broad copyright or software license is granted for reconstructed game material or other third-party material. See LEGAL.md for attribution and rights information and docs/BUILD.md for build-input constraints.
