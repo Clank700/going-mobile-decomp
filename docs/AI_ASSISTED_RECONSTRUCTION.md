@@ -4,4 +4,4 @@ The reconstruction used substantial language-model assistance under Operator dir
 
 Assisted work included bytecode and compiler-behavior analysis, hypothesis generation and falsification, reconstructed-source proposals, source-order and constant-pool investigations, verification support, and development of local research/validation tooling. Model proposals were not treated as ground truth; acceptance depended on the project’s pinned compiler pipeline and comparison gates.
 
-This disclosure intentionally excludes private conversations, bridge messages, account details, and internal task transcripts.
+This disclosure intentionally excludes private conversations, account details, and internal task transcripts.
