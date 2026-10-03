@@ -2,8 +2,9 @@
 
 The reconstructed Java sources use descriptive source-level member names to make
 the code easier to read. These names describe this reconstruction; they are not
-a claim about the historical Java source. Retail class and member names remain
-the names required by the target output.
+a claim about the historical Java source. Retail output class and member names
+remain fixed by the target output, even when reconstructed source members use
+descriptive names.
 
 ## Source names and retail names
 
@@ -21,8 +22,8 @@ renaming.
 
 ## Complete member groups
 
-When a program member is given a descriptive source name, handle the complete
-group of program members that share its retail name across the reconstructed
+When a program member is given a descriptive source name, rename the complete
+group of program members that share that retail name across the reconstructed
 classes. Update the mapping and matching shrinker keep rules together. Partial
 renaming can change ProGuard's `NameAndType` creation order and therefore the
 constant-pool ordering in output class files.
